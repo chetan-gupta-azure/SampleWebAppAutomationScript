@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37431" started-at="2020-06-11T04:14:44 IST" finished-at="2020-06-11T04:15:22 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37431" started-at="2020-06-11T04:14:44 IST" finished-at="2020-06-11T04:15:22 IST">
+      <class name="testCasesPackage.TestCases">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCasesPackage.TestCases@679b62af]" name="setup" is-config="true" duration-ms="30404" started-at="2020-06-11T04:14:44 IST" finished-at="2020-06-11T04:15:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="AddNameToTextBox()[pri:0, instance:testCasesPackage.TestCases@679b62af]" name="AddNameToTextBox" duration-ms="5304" started-at="2020-06-11T04:15:15 IST" finished-at="2020-06-11T04:15:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNameToTextBox -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:testCasesPackage.TestCases@679b62af]" name="teardown" is-config="true" duration-ms="1666" started-at="2020-06-11T04:15:20 IST" finished-at="2020-06-11T04:15:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCasesPackage.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
