@@ -1,10 +1,10 @@
-11/06/2020 08:25:40 devpinoyLogger capabilities1 object of DesiredCapabilities class is created
-11/06/2020 08:25:40 devpinoyLogger Capabilities are set for DesiredCapabilities class
-11/06/2020 08:26:11 devpinoyLogger WindowsDriver object AppTestSession1 is created
-11/06/2020 08:26:11 devpinoyLogger Implicit timeout is set
-11/06/2020 08:26:11 devpinoyLogger Window Maximized is set
-11/06/2020 08:26:11 devpinoyLogger appCapabilities object of DesiredCapabilities class for TopLevel element handling is created
-11/06/2020 08:26:11 devpinoyLogger capability.setCapability with app = Root
-11/06/2020 08:26:11 devpinoyLogger DeskTopSession a WindowsDriver object is created
-11/06/2020 08:26:14 devpinoyLogger Quitting Application 
-11/06/2020 08:26:14 devpinoyLogger Deleting the created project
+11/06/2020 08:29:34 devpinoyLogger capabilities1 object of DesiredCapabilities class is created
+11/06/2020 08:29:34 devpinoyLogger Capabilities are set for DesiredCapabilities class
+11/06/2020 08:30:01 devpinoyLogger WindowsDriver object AppTestSession1 is created
+11/06/2020 08:30:01 devpinoyLogger Implicit timeout is set
+11/06/2020 08:30:01 devpinoyLogger Window Maximized is set
+11/06/2020 08:30:01 devpinoyLogger appCapabilities object of DesiredCapabilities class for TopLevel element handling is created
+11/06/2020 08:30:01 devpinoyLogger capability.setCapability with app = Root
+11/06/2020 08:30:01 devpinoyLogger DeskTopSession a WindowsDriver object is created
+11/06/2020 08:30:02 devpinoyLogger Quitting Application 
+11/06/2020 08:30:02 devpinoyLogger Deleting the created project
