@@ -58,10 +58,11 @@ public class TestBase {
 			String Log4JConfPath= prop.getProperty("Log4JConfPath");
 			PropertyConfigurator.configure(Log4JConfPath);
 			logg = Logger.getLogger("devpinoyLogger");
-
+			String AppFullPath = System.getProperty("user.dir")+"//"+prop.getProperty("AppPath");
+			System.out.println("The App Full Path : "+AppFullPath);
 			DesiredCapabilities capabilities = new DesiredCapabilities();
 			logg.info("capabilities1 object of DesiredCapabilities class is created");
-			capabilities.setCapability("app",prop.getProperty("AppPath"));
+			capabilities.setCapability("app",AppFullPath);
 			capabilities.setCapability("ms:experimental-webdriver", true);
 			capabilities.setCapability("ms:waitForAppLaunch", "25");
 			logg.info("Capabilities are set for DesiredCapabilities class"); 

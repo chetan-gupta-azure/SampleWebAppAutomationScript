@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="28709" started-at="2020-06-11T08:29:34 IST" finished-at="2020-06-11T08:30:02 IST">
+  <suite name="Suite" duration-ms="28827" started-at="2020-06-11T09:03:46 IST" finished-at="2020-06-11T09:04:15 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="28709" started-at="2020-06-11T08:29:34 IST" finished-at="2020-06-11T08:30:02 IST">
+    <test name="Test" duration-ms="28827" started-at="2020-06-11T09:03:46 IST" finished-at="2020-06-11T09:04:15 IST">
       <class name="testCasesPackage.TestCases">
-        <test-method status="PASS" signature="setup()[pri:0, instance:testCasesPackage.TestCases@646007f4]" name="setup" is-config="true" duration-ms="27382" started-at="2020-06-11T08:29:34 IST" finished-at="2020-06-11T08:30:01 IST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCasesPackage.TestCases@646007f4]" name="setup" is-config="true" duration-ms="27496" started-at="2020-06-11T09:03:46 IST" finished-at="2020-06-11T09:04:13 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="AddNameToTextBox()[pri:0, instance:testCasesPackage.TestCases@646007f4]" name="AddNameToTextBox" duration-ms="988" started-at="2020-06-11T08:30:01 IST" finished-at="2020-06-11T08:30:02 IST">
+        <test-method status="PASS" signature="AddNameToTextBox()[pri:0, instance:testCasesPackage.TestCases@646007f4]" name="AddNameToTextBox" duration-ms="959" started-at="2020-06-11T09:04:13 IST" finished-at="2020-06-11T09:04:14 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddNameToTextBox -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:testCasesPackage.TestCases@646007f4]" name="teardown" is-config="true" duration-ms="295" started-at="2020-06-11T08:30:02 IST" finished-at="2020-06-11T08:30:02 IST">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:testCasesPackage.TestCases@646007f4]" name="teardown" is-config="true" duration-ms="311" started-at="2020-06-11T09:04:14 IST" finished-at="2020-06-11T09:04:15 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
