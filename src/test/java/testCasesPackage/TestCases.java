@@ -43,8 +43,12 @@ public class TestCases extends TestBase {
 			{
 			    WebElement txtName = AppTestSession.findElementByAccessibilityId("txtName");
 			    txtName.sendKeys("Matteo");
+			    logg.info("sending the name in name text box");
 			    AppTestSession.findElementByAccessibilityId("sayHelloButton").click();
+			    logg.info("Clicked on Say Hello button");
 			    WebElement txtResult = AppTestSession.findElementByAccessibilityId("txtResult");
+			    logg.info("Now checking if Greeting message has correct name or not");
+			    
 			    Assert.assertEquals(txtResult.getText(), "Hello "+txtName.getText());
 			}
 

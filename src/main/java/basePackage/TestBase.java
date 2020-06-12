@@ -58,6 +58,7 @@ public class TestBase {
 			String Log4JConfPath= prop.getProperty("Log4JConfPath");
 			PropertyConfigurator.configure(Log4JConfPath);
 			logg = Logger.getLogger("devpinoyLogger");
+			logg = Logger.getLogger("AppTestingLogger");
 			String AppFullPath = System.getProperty("user.dir")+"//"+prop.getProperty("AppPath");
 			System.out.println("The App Full Path : "+AppFullPath);
 			DesiredCapabilities capabilities = new DesiredCapabilities();
