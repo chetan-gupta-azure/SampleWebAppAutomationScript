@@ -1,13 +1,13 @@
-13/06/2020 03:13:22 AppTestingLogger capabilities1 object of DesiredCapabilities class is created
-13/06/2020 03:13:23 AppTestingLogger Capabilities are set for DesiredCapabilities class
-13/06/2020 03:13:49 AppTestingLogger WindowsDriver object AppTestSession1 is created
-13/06/2020 03:13:49 AppTestingLogger Implicit timeout is set
-13/06/2020 03:13:49 AppTestingLogger Window Maximized is set
-13/06/2020 03:13:49 AppTestingLogger appCapabilities object of DesiredCapabilities class for TopLevel element handling is created
-13/06/2020 03:13:49 AppTestingLogger capability.setCapability with app = Root
-13/06/2020 03:13:49 AppTestingLogger DeskTopSession a WindowsDriver object is created
-13/06/2020 03:13:50 AppTestingLogger sending the name in name text box
-13/06/2020 03:13:50 AppTestingLogger Clicked on Say Hello button
-13/06/2020 03:13:50 AppTestingLogger Now checking if Greeting message has correct name or not
-13/06/2020 03:13:50 AppTestingLogger Quitting Application 
-13/06/2020 03:13:50 AppTestingLogger Deleting the created project
+04/02/2021 22:54:13 AppTestingLogger capabilities1 object of DesiredCapabilities class is created
+04/02/2021 22:54:13 AppTestingLogger Capabilities are set for DesiredCapabilities class
+04/02/2021 22:54:40 AppTestingLogger WindowsDriver object AppTestSession1 is created
+04/02/2021 22:54:40 AppTestingLogger Implicit timeout is set
+04/02/2021 22:54:40 AppTestingLogger Window Maximized is set
+04/02/2021 22:54:40 AppTestingLogger appCapabilities object of DesiredCapabilities class for TopLevel element handling is created
+04/02/2021 22:54:40 AppTestingLogger capability.setCapability with app = Root
+04/02/2021 22:54:40 AppTestingLogger DeskTopSession a WindowsDriver object is created
+04/02/2021 22:54:41 AppTestingLogger sending the name in name text box
+04/02/2021 22:54:41 AppTestingLogger Clicked on Say Hello button
+04/02/2021 22:54:41 AppTestingLogger Now checking if Greeting message has correct name or not
+04/02/2021 22:54:42 AppTestingLogger Quitting Application 
+04/02/2021 22:54:42 AppTestingLogger Deleting the created project
